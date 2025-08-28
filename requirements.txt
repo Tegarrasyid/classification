@@ -1,0 +1,7 @@
+pandas
+joblib
+streamlit
+matplotlib
+numpy
+seaborn
+scikit-learn
